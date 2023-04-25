@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Timothé Rouzé
+description:  Student at University of Lille
+logo: img/photo.jpg
+markdown: kramdown
+show_downloads: true
