@@ -4,7 +4,7 @@ I am a student in Master 2 in Bioinformatics at the University of Lille (France)
 
 _Je suis étudiant en Master 2 en Bioinformatique à l'université de Lille (France). Actuellement en stage de fin d'études au sein de l'équipe [BONSAI](https://www.cristal.univ-lille.fr/bonsai/) (Lille, France)_
 
-My internship focuses on scalability for metagenomic and massive genomique data analysis. I am currently developping a tool called [SuperSampler](https://github.com/TimRouze/supersampler) (Supervisor: Antoine Limasset).
+My internship focuses on scalability for metagenomic and massive genomic data analysis. I am currently developping a tool called [SuperSampler](https://github.com/TimRouze/supersampler) (Supervisor: Antoine Limasset).
 
 _Mon stage porte sur le passage à l'échelle de l'analyse de données métagénomiques et de séquences génomiques massives. Je développe actuellement un outil nommé [SuperSampler](https://github.com/TimRouze/supersampler) (Superviseur: Antoine Limasset)._
 
