@@ -1,11 +1,16 @@
 # Bio
 
 I am a student in Master 2 in Bioinformatics at the University of Lille (France). Currently intern at [BONSAI](https://www.cristal.univ-lille.fr/bonsai/) (Lille, France).
-_Je suis étudiant en Master 2 en Bioinformatique à l'université de Lille (France). Actuellement en stage de fin d'études au sein de l'équipe [BONSAI](https://www.cristal.univ-lille.fr/bonsai/) (Lille, France)
+
+_Je suis étudiant en Master 2 en Bioinformatique à l'université de Lille (France). Actuellement en stage de fin d'études au sein de l'équipe [BONSAI](https://www.cristal.univ-lille.fr/bonsai/) (Lille, France)_
+
 My internship focuses on scalability for metagenomic and massive genomique data analysis. I am currently developping a tool called [SuperSampler](https://github.com/TimRouze/supersampler) (Supervisor: Antoine Limasset).
-_Mon stage porte sur le passage à l'échelle de l'analyse de données métagénomiques et de séquences génomiques massives. Je développe actuellement un outil nommé [SuperSampler](https://github.com/TimRouze/supersampler) (Superviseur: Antoine Limasset).
+
+_Mon stage porte sur le passage à l'échelle de l'analyse de données métagénomiques et de séquences génomiques massives. Je développe actuellement un outil nommé [SuperSampler](https://github.com/TimRouze/supersampler) (Superviseur: Antoine Limasset)._
+
 I am currently applying for a PhD thesis entitled "Large scale sequencing data indexing using local sensitive hashing fingerprints" under the supervision of Professor Jean-Stephane Varré and Antoine Limasset at the BONSAI team.
-_Je fais une demande de bourse de thèse pour le sujet "Large scale sequencing data indexing using local sensitive hashing fingerprints" sous la supervision du professeur Jean-Stephane Varré et Antoine Limasset (Chargé de recherche) au sein de l'équipe BONSAI.
+
+_Je fais une demande de bourse de thèse pour le sujet "Large scale sequencing data indexing using local sensitive hashing fingerprints" sous la supervision du professeur Jean-Stephane Varré et Antoine Limasset (Chargé de recherche) au sein de l'équipe BONSAI._
 
 # Communications
 
