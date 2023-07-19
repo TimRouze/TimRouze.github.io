@@ -12,9 +12,13 @@ I am currently applying for a PhD thesis entitled "Large scale sequencing data i
 
 _Je fais une demande de bourse de thèse pour le sujet "Large scale sequencing data indexing using local sensitive hashing fingerprints" sous la supervision du professeur Jean-Stephane Varré et Antoine Limasset (Chargé de recherche) au sein de l'équipe BONSAI._
 
+# Research Papers
+- [Fractional Hitting Sets for Efficient and Lightweight Genomic Data Sketching](https://www.biorxiv.org/content/10.1101/2023.06.21.545875v1)
+
 # Communications
 
 ## Conferences/ Seminars
+- 2023 SuperSampler: efficient scaled sketches for metagenomics and extensive genomics compositional analysis Talk & Poster at ISMB 2023, Lyon
 - 2022 [SuperSampler, Efficient subsampling strategy for metagenomic data analysis](https://seqbim.cnrs.fr/seqbim-2022/actes-et-slides-des-journees-2022/) at SeqBim, Bordeaux
 - 2022 [SuperSampler, A memory efficient subsampling strategy for large scale analysis of sequencing data](https://github.com/TimRouze/Communications/blob/main/Poster_jobim_Tim.pdf)
 - 2022 [Comparaison de méthodes pour données de survie en grande dimension sur de petits échantillons: Optimisation des hyperparamètres et validation](https://jds22.sciencesconf.org/)
