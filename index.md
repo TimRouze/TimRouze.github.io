@@ -8,9 +8,9 @@ My internship focuses on scalability for metagenomic and massive genomic data an
 
 _Mon stage porte sur le passage à l'échelle de l'analyse de données métagénomiques et de séquences génomiques massives. Je développe actuellement un outil nommé [SuperSampler](https://github.com/TimRouze/supersampler) (Superviseur: Antoine Limasset)._
 
-I am currently applying for a PhD thesis entitled "Large scale sequencing data indexing using local sensitive hashing fingerprints" under the supervision of Professor Jean-Stephane Varré and Antoine Limasset at the BONSAI team.
+I will be a PhD student at the Sequence Bioinformatics research group from Pasteur Institute. I will work on compressing pre-assembled genomic data. This thesis will be supervised by Rayan Chikhi and Antoine Limasset.
 
-_Je fais une demande de bourse de thèse pour le sujet "Large scale sequencing data indexing using local sensitive hashing fingerprints" sous la supervision du professeur Jean-Stephane Varré et Antoine Limasset (Chargé de recherche) au sein de l'équipe BONSAI._
+_Je serai doctorant au sein de l'équipe 'Sequence Bioinformatics' de l'Institut Pasteur. Ma thèse portera sur la compression de données génomiques pré-assemblées et sera dirigée par Rayan Chikhi en co-encadrement avec Antoine Limasset._
 
 # Research Papers
 - [Fractional Hitting Sets for Efficient and Lightweight Genomic Data Sketching](https://www.biorxiv.org/content/10.1101/2023.06.21.545875v1)
